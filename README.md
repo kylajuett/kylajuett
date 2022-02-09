@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylajuett
-- 👀 I’m interested in ... `shruggy guy` But mostly back end and data science.
-- 🌱 I’m currently learning ... everything (#codenewbie). Q1 2022 bootcamp.
+- 👀 I’m interested in data science (NLP!) & back end.
+- 🌱 I’m currently learning ... everything (#codenewbie). Q1 2022 DS bootcamp.
 - 💞️ I’m looking to collaborate on ... ✨✨
-- 📫 How to reach me ... @kylajuett on Twitter, also [myusername] at the gmail.
+- 📫 How to reach me ... @kylajuett on Twitter, also [myusername] at the g-mail.
 
