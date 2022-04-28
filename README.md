@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Data Science (bootcamp Feb.-May 2022).
 - 💞️ I’m looking to collaborate on ... ✨✨
 - 📫 How to reach me ... @kylajuett on Twitter, also [myusername] at the g-mail.
-
+- 📷 Profile pic is a sticker made by rileslovesyall.com
